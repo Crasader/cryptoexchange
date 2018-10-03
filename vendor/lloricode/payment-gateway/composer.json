@@ -1,0 +1,23 @@
+{
+    "name": "lloricode/payment-gateway",
+    "description": "Bitcoin/Altcoins PHP Payment Class. It supports Bitcoin DASH Dogecoin Litecoin Reddcoin Feathercoin Vertcoin Potcoin Vericoin Speedcoin. Install GoUrl php script - bitcoin api payment gateway on your site!",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Delta Consultants",
+            "email": "email@email.com"
+        },
+        {
+            "name": "GoUrl.io Developers",
+            "email": "email@email.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lloricode\\PaymentGateway\\": "laravel-integrated-src/"
+        }
+    }
+}
